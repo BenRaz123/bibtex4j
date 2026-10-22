@@ -6,7 +6,7 @@
 
 ## Goal
 
-- [ ] **No AI**
+- [X] **No AI use at all**
 - [ ] Parse bibtex into JSON ([see](https://www.bibtex.org/Format/))
 - [ ] Have command line arguments
 - [ ] Support both files and STDIO and STDOUT for input and output
